@@ -1,2 +1,3 @@
-# parallel_processing_for_CP
-Concurrent programming practicles explanation 
+**To Install the OpenMP follow this Youtube Link**
+```
+Link : https://www.youtube.com/watch?v=IQdZwIM8r_c
