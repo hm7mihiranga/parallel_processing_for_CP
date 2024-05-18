@@ -1,3 +1,4 @@
+**Measure the time between serial Processing and the Parallel Processing**
 ```diff
 + #include <stdio.h>
 + #include <omp.h>
